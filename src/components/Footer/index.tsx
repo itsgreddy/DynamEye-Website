@@ -53,7 +53,7 @@ const Footer = () => {
                     </svg>
                   </a>
                   <a
-                    href="/"
+                    href="https://www.linkedin.com/in/dynam-eye/"
                     aria-label="social-link"
                     target="_blank"
                     rel="noopener noreferrer"
